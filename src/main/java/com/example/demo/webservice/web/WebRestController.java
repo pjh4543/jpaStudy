@@ -8,7 +8,7 @@ public class WebRestController {
 	
 	@GetMapping("/hello")
 	public String hell() {
-		return "hellow world";
+		return "hellow_dasld";
 	}
 
 }
